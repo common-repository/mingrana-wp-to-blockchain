@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2019-03-15 10:45+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/class-mingrana-wp-admin.php:139
+msgid "Settings"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:192
+msgid "Mingrana Bring to BolckChain"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:220
+msgid "REGISTER IN BLOCKCHAIN"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:355 admin/class-mingrana-wp-admin.php:530
+msgid "ATTACHMENTS"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:357 admin/class-mingrana-wp-admin.php:532
+msgid "PUBLISHED ON"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:362
+msgid "Image"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:468
+msgid ""
+"You post was sent to Mingrana Server. You will receive an email when it is "
+"registered in the blockchain."
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:764
+msgid "Pending"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:764
+msgid "Refresh Status"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:767
+#: admin/partials/mingrana-wp-admin-display.php:28
+msgid "Protected"
+msgstr ""
+
+#: admin/class-mingrana-wp-admin.php:770
+msgid "No Protected"
+msgstr ""
+
+#: admin/lib/dompdf/lib/php-css-parser/tests/Sabberworm/CSS/RuleSet/DeclarationBlockTest.php:215
+msgid "-10px"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:26
+msgid "No protected"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:27
+msgid "Register pending"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:30
+msgid "Send to Mingrana"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:31
+msgid "Be patient"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:32
+msgid "You can rest asure"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:54
+msgid "Email"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:56
+msgid "Api Key"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:58
+msgid "Save all changes"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:82
+msgid "Title"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:83
+msgid "Status"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:84
+msgid "Pdf"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:85
+msgid "Register data"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:87
+msgid "Action"
+msgstr ""

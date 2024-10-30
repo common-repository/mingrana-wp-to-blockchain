@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2019-03-15 10:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: C:/xampp70/htdocs/wp_mingrana/wp-content/plugins/mingrana-"
+"wp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-mingrana-wp-admin.php:139
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-mingrana-wp-admin.php:192
+msgid "Mingrana Bring to BolckChain"
+msgstr "Mingrana Bring to Chain"
+
+#: admin/class-mingrana-wp-admin.php:220
+msgid "REGISTER IN BLOCKCHAIN"
+msgstr "REGISTRAR EN LA BLOCKCHAIN"
+
+#: admin/class-mingrana-wp-admin.php:355 admin/class-mingrana-wp-admin.php:530
+msgid "ATTACHMENTS"
+msgstr "ADJUNTOS"
+
+#: admin/class-mingrana-wp-admin.php:357 admin/class-mingrana-wp-admin.php:532
+msgid "PUBLISHED ON"
+msgstr "PUBLICADO EL"
+
+#: admin/class-mingrana-wp-admin.php:362
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/class-mingrana-wp-admin.php:468
+msgid ""
+"You post was sent to Mingrana Server. You will receive an email when it is "
+"registered in the blockchain."
+msgstr ""
+"Ya hemos recibido tu solicitud de registro en Mingrana. Recibirás un correo "
+"electrónico cuando esté registrado en la Blockchain."
+
+#: admin/class-mingrana-wp-admin.php:764
+msgid "Pending"
+msgstr "Pendiente"
+
+#: admin/class-mingrana-wp-admin.php:764
+msgid "Refresh Status"
+msgstr "Actualizar estado"
+
+#: admin/class-mingrana-wp-admin.php:767
+#: admin/partials/mingrana-wp-admin-display.php:28
+msgid "Protected"
+msgstr "Protegido"
+
+#: admin/class-mingrana-wp-admin.php:770
+msgid "No Protected"
+msgstr "No Protegido"
+
+#: admin/lib/dompdf/lib/php-css-parser/tests/Sabberworm/CSS/RuleSet/DeclarationBlockTest.php:215
+msgid "-10px"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:26
+msgid "No protected"
+msgstr "No Protegido"
+
+#: admin/partials/mingrana-wp-admin-display.php:27
+msgid "Register pending"
+msgstr "Pendiente de registro"
+
+#: admin/partials/mingrana-wp-admin-display.php:30
+msgid "Send to Mingrana"
+msgstr "Enviado a Mingrana"
+
+#: admin/partials/mingrana-wp-admin-display.php:31
+msgid "Be patient"
+msgstr "Paciencia"
+
+#: admin/partials/mingrana-wp-admin-display.php:32
+msgid "You can rest asure"
+msgstr "Puedes descansar"
+
+#: admin/partials/mingrana-wp-admin-display.php:54
+msgid "Email"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:56
+msgid "Api Key"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:58
+msgid "Save all changes"
+msgstr "Guardar cambios"
+
+#: admin/partials/mingrana-wp-admin-display.php:82
+msgid "Title"
+msgstr "Título"
+
+#: admin/partials/mingrana-wp-admin-display.php:83
+msgid "Status"
+msgstr "Estado"
+
+#: admin/partials/mingrana-wp-admin-display.php:84
+msgid "Pdf"
+msgstr ""
+
+#: admin/partials/mingrana-wp-admin-display.php:85
+msgid "Register data"
+msgstr "Datos de registro"
+
+#: admin/partials/mingrana-wp-admin-display.php:87
+msgid "Action"
+msgstr "Acción"
